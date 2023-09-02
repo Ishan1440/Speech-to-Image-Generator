@@ -59,10 +59,6 @@ Replace `"YourAPIkey"` with your actual OpenAI API key.
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your improvements.
 
-## License
-
-This project is open-source software licensed under the [MIT License](LICENSE). You are free to use and modify it as needed.
-
 ## Author
 
 - [Your Name]
