@@ -18,6 +18,7 @@ An innovative application that leverages advanced technologies to transform spok
    ```
    pip install gradio openai
    ```
+   - For Audio Support, Please install `ffmpeg` in your system to use non-WAV audio file formats and make sure `ffprobe` is in your PATH.
 
 4. Set up your OpenAI API key:
 
