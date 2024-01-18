@@ -7,6 +7,8 @@ An innovative application that leverages advanced technologies to transform spok
 - Summarize transcribed text using ChatGPT.
 - Generate images using DALL-E based on the ChatGPT summary.
 
+
+
 ## How to Use
 
 1. Clone this repository to your local machine.
