@@ -8,6 +8,8 @@ An innovative application that leverages advanced technologies to transform spok
 - Generate images using DALL-E based on the ChatGPT summary.
 
 
+https://github.com/Ishan1440/Voice-to-Image-Generator/assets/113188276/7e0d2c59-a410-4470-95ff-8f300e75ea2e
+
 
 ## How to Use
 
