@@ -1,4 +1,4 @@
-# Voice-to-Image-Generator
+# Speech-to-Image-Generator
 An innovative application that leverages advanced technologies to transform spoken words into stunning visual representations. It is built using Python and an Open Source library Gradio, integrated with the OpenAI API with DALL-E for image generation.
 
 ## Features
@@ -8,7 +8,7 @@ An innovative application that leverages advanced technologies to transform spok
 - Generate images using DALL-E based on the ChatGPT summary.
 
 
-https://github.com/Ishan1440/Voice-to-Image-Generator/assets/113188276/7e0d2c59-a410-4470-95ff-8f300e75ea2e
+https://github.com/Ishan1440/Speech-to-Image-Generator/assets/113188276/7e0d2c59-a410-4470-95ff-8f300e75ea2e
 
 
 ## How to Use
