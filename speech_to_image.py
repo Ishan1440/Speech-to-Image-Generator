@@ -1,8 +1,10 @@
 import gradio as gr
 import openai
 import os
-import warnings
-warnings.filterwarnings("ignore")
+# import warnings
+# warnings.filterwarnings("ignore")
+from dotenv import load_dotenv
+load_dotenv()
 
 def chatgpt_api(input_text):
     messages = [
@@ -37,7 +39,7 @@ def whisper_transcribe(audio):
     image_url = dall_e_api(dalle_prompt)
     return transcript["text"], image_url
 
-openai.api_key = "YourAPIkey"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 output_1 = gr.Textbox(label="Speech to Text")
 output_2 = gr.Image(label="DALL-E Image", type = 'pil')
